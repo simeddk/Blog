@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-![Wendy](https://github.com/simeddk/Blog/blob/gh-pages/Images/Wendy.jpg?raw=true)
+![Wendy](https://gh-pages/Images/Wendy.jpg)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
