@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Something about me.
+![Wendy](Images/Wendy.jpg){: width = "30%" height = "30%"}
