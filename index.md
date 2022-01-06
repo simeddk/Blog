@@ -3,9 +3,10 @@ layout: page
 title: Index
 ---
 
-# Hello `Hell` World
+# Hello Hell World
 ---
-## `뻘짓`과 `개삽질`로 점철된 블로그
+## 뇌가 고기가 되는 곳
+### 빡침과 설레임이 공존하는 개좆같은 ~~~someddk@gitio~~~ 어서옵쇼
 ![Title.png](Images/title.png)
 
 
